@@ -6,7 +6,7 @@ font-family: fantasy;
 }
 
 body{
-    background-color: rgb(224, 224, 224);
+    background-color: #56A58D;
 font-style: italic;
 font-family: fantasy;
 font-size: 20px;    
@@ -58,7 +58,7 @@ header{
 }
 
 .parte1{
-    background-color: rgb(209, 205, 205);
+    background-color: #56A58D;
     margin-top: 30px;
 }
 .title{
@@ -117,7 +117,7 @@ header{
     margin-top: 30px;
 }
 .anuncio{
-    color: rgb(49, 3, 75);
+    color: #56A58D;
     font-size: 25px;
     margin-bottom: 20px;
 }
@@ -138,21 +138,21 @@ h2{
     max-width: 1000px;
     margin: auto;
     padding: 60px;
-    background-color: rgb(140, 140, 240);
+    background-color: #56A58D;
 }
 .parte6 {
     width: 100%;
     max-width: 1000px;
     margin: auto;
     padding: 60px;
-background-color: rgb(174, 174, 196);
+background-color: #56A58D;
 }
 .web {
     width: 100%;
     max-width: 1000px;
     margin: auto;
     padding: 60px;
-    background-color: rgb(187, 204, 204);
+    background-color: #56A58D;
 }
 .parte6 img{
     float: left;
